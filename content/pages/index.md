@@ -1,6 +1,6 @@
 ---
-template: "index-template"
-title: "Gatsby Starter Glass"
+title: "*سلام دنیا "
+template: index-template
 ---
 
 # Hello World
