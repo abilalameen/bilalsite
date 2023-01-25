@@ -6,7 +6,7 @@ module.exports = {
       summary: `Self-taught front-end web dev. JAMStack.`,
     },
     openGraphImage: `open-graph-image.png`,
-    description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
+    description: `Technology strategist leveraging business knowledge and psychology to solve problems. Experienced in Digital Product Strategy, UX Design, and Go-to-Market. Natural facilitator between users and product teams.`,
     siteUrl: `https://gatsbyglass.netlify.app`,
     social: {
       twitter: `yinkakun`,
