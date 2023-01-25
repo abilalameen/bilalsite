@@ -13,6 +13,7 @@ UX Design, and interpersonal skills makes me a natural facilitator
 between users and product teams.
 
 
+
 My passion is to build and launch innovative, user-friendly
 products in collaboration with business stakeholders, designers,
 and developers. My greatest strength is my natural ability to
