@@ -1,8 +1,7 @@
 ---
-title: "*سلام دنیا "
+title: Home
 template: index-template
 ---
+# \*سلام دنیا
 
-# Hello World
-
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+Starting this blog to write about: **[digital product design](https://bilal.pk/blog), [saas](https://bilal.pk/blog), [startups](https://bilal.pk/blog/) & [go-to-market](https://bilal.pk/blog/)**.
