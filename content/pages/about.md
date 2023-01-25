@@ -9,6 +9,6 @@ A Digital Product Strategist with 5 years of user-centric experience at Microsof
 
 
 
-# ☕ blog@bilal.pk · (+45) 4246 4296
+# ☕+45 4246 4296
 
 # 
