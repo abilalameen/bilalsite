@@ -1,6 +1,6 @@
 ---
 title: Quick create button form customization – New D365 Sales Mobile App Navigation
-date: 2023-01-25 11:32
+date: 2022-12-05 11:32
 tags:
   - dynamics365sales
   - technical
