@@ -4,7 +4,7 @@ date: 2021-09-03
 tags:
   - rick and morty
   - tv series
-social_image: /media/rocket.jpg
+social_image: /media/profile-image.jpg
 description: Weddings are basically funerals with cake. I mean, why would a
   Pop-Tart want to live inside
 ---
