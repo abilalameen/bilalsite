@@ -24,6 +24,10 @@ module.exports = {
         name: "linkedin",
         url: "https://www.linkedin.com/in/bilalameen/",
       },
+      {
+        name: "download my cv",
+        url: "https://github.com/abilalameen/bilalsite/raw/356e2d0cb0bb67e90fe4a254e2c40e706ac4e7fc/src/files/bilalameen-cv.pdf",
+      },
     ],
   },
   plugins: [
