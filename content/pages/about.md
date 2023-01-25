@@ -9,6 +9,6 @@ A Digital Product Strategist with 5 years of user-centric experience at Microsof
 
 
 
-# ☕+45 4246 4296
+#
 
 # 
