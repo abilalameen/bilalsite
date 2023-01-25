@@ -4,7 +4,6 @@ date: 2023-01-10 12:39
 tags:
   - AI Builder
   - PowerAutomate
-  - PowerPlatform
   - technical
 social_image: /media/image-3-768x284.png
 description: I recently discovered that when Document Automation is used out of
