@@ -9,7 +9,6 @@ A Digital Product Strategist with 5 years of user-centric experience at Microsof
 
 
 
-# Feel free to ping me! ☕ bilal.ameen@microsoft.com · (+45) 42464296
+# ☕ blog@bilal.pk · (+45) 4246 4296
 
-#  
 # 
