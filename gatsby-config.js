@@ -14,7 +14,7 @@ module.exports = {
     socialLinks: [
       {
         name: "github",
-        url: "https://github.com/abilalameen/" target="_blank",
+        url: "https://github.com/abilalameen/",
       },
       {
         name: "twitter",
