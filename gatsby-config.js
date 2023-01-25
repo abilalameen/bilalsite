@@ -7,14 +7,14 @@ module.exports = {
     },
     openGraphImage: `open-graph-image.png`,
     description: `Technology strategist leveraging business knowledge and psychology to solve problems. Experienced in Digital Product Strategy, UX Design, and Go-to-Market. Natural facilitator between users and product teams.`,
-    siteUrl: `https://gatsbyglass.netlify.app`,
+    siteUrl: `https://bilalsite.netlify.app`,
     social: {
-      twitter: `yinkakun`,
+      twitter: `bilalameens`,
     },
     socialLinks: [
       {
         name: "github",
-        url: "https://github.com/abilalameen/",
+        url: "https://github.com/abilalameen/" target="_blank",
       },
       {
         name: "twitter",
