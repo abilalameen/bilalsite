@@ -1,6 +1,6 @@
 ---
 title: Projects
-template: page-template
+template: about-template
 ---
 **Will be uploading my spare time project here.**
 
