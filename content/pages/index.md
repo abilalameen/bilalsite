@@ -4,4 +4,4 @@ template: index-template
 ---
 # \*سلام دنیا
 
-Starting this blog to write about: **digital product design, saas, startups & go-to-market**.
+I am a digital product enthusiast starting this blog to write about: **digital product design, technical solutions, startups & go-to-market** *\- Basicly a lot of stuff related to digital products...*
