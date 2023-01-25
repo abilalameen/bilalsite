@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Glass`,
+    title: `Bilal Ameen`,
     author: {
       name: `Yinka Adedire`,
       summary: `Self-taught front-end web dev. JAMStack.`,
@@ -14,15 +14,15 @@ module.exports = {
     socialLinks: [
       {
         name: "github",
-        url: "https://github.com",
+        url: "https://github.com/abilalameen/",
       },
       {
         name: "twitter",
-        url: "https://twitter.com",
+        url: "https://twitter.com/bilalameens",
       },
       {
-        name: "instagram",
-        url: "https://instagram.com",
+        name: "linkedin",
+        url: "https://www.linkedin.com/in/bilalameen/",
       },
     ],
   },
