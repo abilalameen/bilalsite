@@ -10,7 +10,7 @@ const Footer = () => {
         <SocialLinks />
 
         <FooterAttribution>
-          *سلام دنیا = salam world - Thanks {' '}
+          *سلام دنیا = salam world -- Thanks for letting me fork the theme {' '}
           <a href="https://www.linkedin.com/in/yinkakun">Yinka</a>
         </FooterAttribution>
       </FooterWrapper>
