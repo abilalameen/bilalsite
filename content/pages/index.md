@@ -1,5 +1,5 @@
 ---
-title: Bilal Ameen
+title: Bilal Ameen - Home
 template: index-template
 ---
 # Hello World.
